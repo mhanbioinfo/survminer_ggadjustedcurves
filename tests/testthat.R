@@ -1,4 +1,4 @@
 library(testthat)
-library(survminer)
+library(survminer_ggadjustedcurves)
 
-test_check("survminer")
+test_check("survminer_ggadjustedcurves")
