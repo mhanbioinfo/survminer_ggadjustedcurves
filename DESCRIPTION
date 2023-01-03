@@ -1,4 +1,4 @@
-Package: survminer
+Package: survminer_ggadjustedcurves
 Type: Package
 Title: Drawing Survival Curves using 'ggplot2'
 Version: 0.4.9.999
